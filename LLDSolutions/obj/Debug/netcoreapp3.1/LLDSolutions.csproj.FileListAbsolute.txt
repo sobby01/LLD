@@ -1,0 +1,12 @@
+D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.csproj.CoreCompileInputs.cache
+D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.AssemblyInfoInputs.cache
+D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.AssemblyInfo.cs
+D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\bin\Debug\netcoreapp3.1\LLDSolutions.exe
+D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\bin\Debug\netcoreapp3.1\LLDSolutions.deps.json
+D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\bin\Debug\netcoreapp3.1\LLDSolutions.runtimeconfig.json
+D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\bin\Debug\netcoreapp3.1\LLDSolutions.runtimeconfig.dev.json
+D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\bin\Debug\netcoreapp3.1\LLDSolutions.dll
+D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\bin\Debug\netcoreapp3.1\LLDSolutions.pdb
+D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.dll
+D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.pdb
+D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.genruntimeconfig.cache

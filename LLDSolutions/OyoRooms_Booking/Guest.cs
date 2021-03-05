@@ -10,5 +10,10 @@ namespace LLDSolutions
         public Guest(string name, DateTime dOB, string cNumber, string email, Address address, Sex sex) : base(name, dOB, cNumber, email, address, sex)
         {
         }
+
+        public BookingStatus DoBooking()
+        {
+            return BookingStatus.Confirmed;
+        }
     }
 }

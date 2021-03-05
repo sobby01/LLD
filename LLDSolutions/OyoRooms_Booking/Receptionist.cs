@@ -7,8 +7,15 @@ namespace LLDSolutions
 {
     public class Receptionist : User
     {
-        public Receptionist(string name, DateTime dOB, string cNumber, string email, Address address, Sex sex) : base(name, dOB, cNumber, email, address, sex)
+        public Receptionist(string name, DateTime dOB, 
+            string cNumber, string email, Address address,
+            Sex sex) : base(name, dOB, cNumber, email, address, sex)
         {
+        }
+
+        public RoomStatus CheckBooking(List<RoomFacility> roomFacilities)
+        {
+            return RoomStatus.Available;
         }
     }
 }

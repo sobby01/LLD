@@ -10,3 +10,16 @@ D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\bin\Debug\netcoreapp3.1\LLDSolutions.
 D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.dll
 D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.pdb
 D:\Dev\Git\LowLevelDesign\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.genruntimeconfig.cache
+C:\Dev\Git\LLD\LLDSolutions\bin\Debug\netcoreapp3.1\LLDSolutions.exe
+C:\Dev\Git\LLD\LLDSolutions\bin\Debug\netcoreapp3.1\LLDSolutions.deps.json
+C:\Dev\Git\LLD\LLDSolutions\bin\Debug\netcoreapp3.1\LLDSolutions.runtimeconfig.json
+C:\Dev\Git\LLD\LLDSolutions\bin\Debug\netcoreapp3.1\LLDSolutions.runtimeconfig.dev.json
+C:\Dev\Git\LLD\LLDSolutions\bin\Debug\netcoreapp3.1\LLDSolutions.dll
+C:\Dev\Git\LLD\LLDSolutions\bin\Debug\netcoreapp3.1\LLDSolutions.pdb
+C:\Dev\Git\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.csproj.AssemblyReference.cache
+C:\Dev\Git\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.AssemblyInfoInputs.cache
+C:\Dev\Git\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.AssemblyInfo.cs
+C:\Dev\Git\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.csproj.CoreCompileInputs.cache
+C:\Dev\Git\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.dll
+C:\Dev\Git\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.pdb
+C:\Dev\Git\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.genruntimeconfig.cache

@@ -6,12 +6,28 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ATM\" />
-    <Folder Include="Chess\" />
-    <Folder Include="Amazon\" />
-    <Folder Include="Facebook\" />
-    <Folder Include="StackOverflow\" />
-    <Folder Include="ParkingLot\" />
+    <Compile Remove="Amazon\**" />
+    <Compile Remove="ATM\**" />
+    <Compile Remove="Chess\**" />
+    <Compile Remove="Facebook\**" />
+    <Compile Remove="LMS\**" />
+    <Compile Remove="StackOverflow\**" />
+    <EmbeddedResource Remove="Amazon\**" />
+    <EmbeddedResource Remove="ATM\**" />
+    <EmbeddedResource Remove="Chess\**" />
+    <EmbeddedResource Remove="Facebook\**" />
+    <EmbeddedResource Remove="LMS\**" />
+    <EmbeddedResource Remove="StackOverflow\**" />
+    <None Remove="Amazon\**" />
+    <None Remove="ATM\**" />
+    <None Remove="Chess\**" />
+    <None Remove="Facebook\**" />
+    <None Remove="LMS\**" />
+    <None Remove="StackOverflow\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Splitwise\" />
   </ItemGroup>
 
 </Project>

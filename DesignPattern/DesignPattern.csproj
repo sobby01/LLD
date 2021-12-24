@@ -43,23 +43,43 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Factory\Version-1\Factory.cs" />
-    <Compile Include="Factory\Version-1\HondaCarInfo.cs" />
-    <Compile Include="Factory\Version-1\ICarUnit.cs" />
-    <Compile Include="Factory\Version-1\MarutiCarInfo.cs" />
-    <Compile Include="Factory\Version-2\Concrete.cs" />
-    <Compile Include="Factory\Version-2\Factory.cs" />
-    <Compile Include="Factory\Version-2\Page.cs" />
+    <Compile Include="Creational\Builder\Builder.cs" />
+    <Compile Include="Creational\Builder\Director.cs" />
+    <Compile Include="Creational\Builder\Product.cs" />
+    <Compile Include="Creational\Factory\Version-1\Factory.cs" />
+    <Compile Include="Creational\Factory\Version-1\HondaCarInfo.cs" />
+    <Compile Include="Creational\Factory\Version-1\ICarUnit.cs" />
+    <Compile Include="Creational\Factory\Version-1\MarutiCarInfo.cs" />
+    <Compile Include="Creational\Factory\Version-2\Concrete.cs" />
+    <Compile Include="Creational\Factory\Version-2\Factory.cs" />
+    <Compile Include="Creational\Factory\Version-2\Page.cs" />
+    <Compile Include="Creational\Prototype\Prototype.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Singleton.cs" />
+    <Compile Include="Creational\Singleton.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Adapter\" />
-    <Folder Include="Builder\" />
+    <Folder Include="Behavioral\Command\" />
+    <Folder Include="Behavioral\COR\" />
+    <Folder Include="Behavioral\Interpreter\" />
+    <Folder Include="Behavioral\Iterator\" />
+    <Folder Include="Behavioral\Mediator\" />
+    <Folder Include="Behavioral\Observer\" />
+    <Folder Include="Behavioral\State\" />
+    <Folder Include="Behavioral\Strategy\" />
+    <Folder Include="Behavioral\Tempelate\" />
+    <Folder Include="Behavioral\Visitor\" />
+    <Folder Include="Creational\Abstract Factory\" />
+    <Folder Include="Structural\Adapter\" />
+    <Folder Include="Structural\Bridge\" />
+    <Folder Include="Structural\Composite\" />
+    <Folder Include="Structural\Decorator\" />
+    <Folder Include="Structural\Facade\" />
+    <Folder Include="Structural\Flyweight\" />
+    <Folder Include="Structural\Proxy\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

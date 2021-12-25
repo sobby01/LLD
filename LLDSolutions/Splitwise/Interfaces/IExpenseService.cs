@@ -11,7 +11,7 @@ namespace LLDSolutions.Splitwise.Interfaces
         //Add Expense
         //Edit Expense
         //Settle Expense
-`
+
         Expense AddExpense(ExpenseType type, User expensePaidBy, Metadata metadata, double amount, List<ExpenseDetails> expenseDetails);
 
         //GetExpense id ->

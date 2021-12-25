@@ -57,6 +57,20 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Creational\Singleton.cs" />
+    <Compile Include="Structural\Bridge\BaseImpl\Abstraction.cs" />
+    <Compile Include="Structural\Bridge\BaseImpl\Implementer.cs" />
+    <Compile Include="Structural\Bridge\BaseImpl\TestClass.cs" />
+    <Compile Include="Structural\Decorator\BaseImpl\Component.cs" />
+    <Compile Include="Structural\Decorator\BaseImpl\Decorator.cs" />
+    <Compile Include="Structural\Decorator\BaseImpl\TestClass.cs" />
+    <Compile Include="Structural\Facade\BaseImpl\Facade.cs" />
+    <Compile Include="Structural\Facade\BaseImpl\Implementer.cs" />
+    <Compile Include="Structural\Facade\BaseImpl\TestClass.cs" />
+    <Compile Include="Structural\Facade\RealWorld\CheckLoan.cs" />
+    <Compile Include="Structural\Facade\RealWorld\Customer.cs" />
+    <Compile Include="Structural\Facade\RealWorld\Mortgage.cs" />
+    <Compile Include="Structural\Proxy\Subject.cs" />
+    <Compile Include="Structural\Proxy\TestClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -74,12 +88,11 @@
     <Folder Include="Behavioral\Visitor\" />
     <Folder Include="Creational\Abstract Factory\" />
     <Folder Include="Structural\Adapter\" />
-    <Folder Include="Structural\Bridge\" />
-    <Folder Include="Structural\Composite\" />
-    <Folder Include="Structural\Decorator\" />
-    <Folder Include="Structural\Facade\" />
+    <Folder Include="Structural\Bridge\RealWorld\" />
+    <Folder Include="Structural\Composite\BaseImpl\" />
+    <Folder Include="Structural\Composite\RealWorld\" />
+    <Folder Include="Structural\Decorator\RealWorld\" />
     <Folder Include="Structural\Flyweight\" />
-    <Folder Include="Structural\Proxy\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,4 +1,5 @@
 ﻿using DesignPattern.Creational.Builder;
+using deco = DesignPattern.Structural.Decorator.BaseImpl;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,8 +12,15 @@ namespace DesignPattern
     {
         static void Main(string[] args)
         {
-            BuilderTest();
+            DecoratorTest();
+            //BuilderTest();
             Console.ReadLine();
+        }
+
+        public static void DecoratorTest()
+        {
+            deco.TestClass decoTest = new deco.TestClass();
+            decoTest.TestMethod();
         }
 
         public static void BuilderTest()

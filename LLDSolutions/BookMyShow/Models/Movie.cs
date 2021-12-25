@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LLDSolutions.BookMyShow.Models
 {
-    class Movie
+    public class Movie
     {
     }
 }

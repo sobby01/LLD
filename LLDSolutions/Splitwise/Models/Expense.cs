@@ -6,7 +6,7 @@ namespace LLDSolutions.Splitwise.Models
 {
     public abstract class Expense
     {
-        public Expense(double amount, User paidBy, Metadata metadata, List<ExpenseDetails> splitInformation, string groupId)
+        public Expense(double amount, User paidBy, Metadata metadata, List<ExpenseDetails> splitInformation)
         {
             this.Amount = amount;
             this.ExpensePaidBy = paidBy;

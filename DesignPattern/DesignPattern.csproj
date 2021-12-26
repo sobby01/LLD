@@ -69,6 +69,11 @@
     <Compile Include="Structural\Facade\RealWorld\CheckLoan.cs" />
     <Compile Include="Structural\Facade\RealWorld\Customer.cs" />
     <Compile Include="Structural\Facade\RealWorld\Mortgage.cs" />
+    <Compile Include="Structural\Flyweight\BaseImpl\FlyWeight.cs" />
+    <Compile Include="Structural\Flyweight\BaseImpl\FlyweightFactory.cs" />
+    <Compile Include="Structural\Flyweight\BaseImpl\TestFlyWeight.cs" />
+    <Compile Include="Structural\Flyweight\RealWorld\Player.cs" />
+    <Compile Include="Structural\Flyweight\RealWorld\PlayerFactory.cs" />
     <Compile Include="Structural\Proxy\Subject.cs" />
     <Compile Include="Structural\Proxy\TestClass.cs" />
   </ItemGroup>
@@ -92,7 +97,6 @@
     <Folder Include="Structural\Composite\BaseImpl\" />
     <Folder Include="Structural\Composite\RealWorld\" />
     <Folder Include="Structural\Decorator\RealWorld\" />
-    <Folder Include="Structural\Flyweight\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

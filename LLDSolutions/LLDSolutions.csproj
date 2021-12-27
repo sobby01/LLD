@@ -23,7 +23,6 @@
   <ItemGroup>
     <Folder Include="ATM\" />
     <Folder Include="BookMyShow\Constants\" />
-    <Folder Include="Chess\" />
     <Folder Include="Logger\" />
     <Folder Include="Splitwise\Payment\" />
   </ItemGroup>

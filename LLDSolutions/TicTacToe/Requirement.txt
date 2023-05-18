@@ -1,0 +1,14 @@
+﻿1. N*N board
+2. Player : 2
+3. Human + COmputer
+4. Turn By Turn
+5. Symbols we will use by X and O
+6. Each human player will be:
+	- UserName
+	- Email
+	- Photo
+7. The computer will have a difficulty levels:
+	- Hard
+	- Medium
+	- Easy
+8.

@@ -1,4 +1,5 @@
 ﻿using System;
+using LLDSolutions.RateLimiting;
 
 namespace LLDSolutions
 {
@@ -6,7 +7,13 @@ namespace LLDSolutions
     {
         public static void Main(string[] args)
         {
-
+            UserSlidingWindow slidingWindow = new UserSlidingWindow(12345);
+            slidingWindow.AccessApp(12345);
+            slidingWindow.AccessApp(12345);
+            slidingWindow.AccessApp(12345);
+            slidingWindow.AccessApp(12345);
+            slidingWindow.AccessApp(12345); 
+            slidingWindow.AccessApp(12345);
         }
     }
 }

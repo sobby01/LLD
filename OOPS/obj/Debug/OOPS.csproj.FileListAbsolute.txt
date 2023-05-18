@@ -1,0 +1,8 @@
+C:\Dev\Git\LLD\OOPS\bin\Debug\OOPS.exe.config
+C:\Dev\Git\LLD\OOPS\bin\Debug\OOPS.exe
+C:\Dev\Git\LLD\OOPS\bin\Debug\OOPS.pdb
+C:\Dev\Git\LLD\OOPS\obj\Debug\OOPS.csproj.AssemblyReference.cache
+C:\Dev\Git\LLD\OOPS\obj\Debug\OOPS.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Git\LLD\OOPS\obj\Debug\OOPS.csproj.CoreCompileInputs.cache
+C:\Dev\Git\LLD\OOPS\obj\Debug\OOPS.exe
+C:\Dev\Git\LLD\OOPS\obj\Debug\OOPS.pdb

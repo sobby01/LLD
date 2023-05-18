@@ -3,3 +3,5 @@
 ################################################################################
 
 /CShareTestApp/bin/Debug
+/CShareTestApp/obj/Debug
+/CSharpFeatures/obj/Debug

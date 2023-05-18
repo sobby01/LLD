@@ -23,3 +23,4 @@ C:\Dev\Git\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.csproj.CoreComp
 C:\Dev\Git\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.dll
 C:\Dev\Git\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.pdb
 C:\Dev\Git\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.genruntimeconfig.cache
+C:\Dev\Git\LLD\LLDSolutions\obj\Debug\netcoreapp3.1\LLDSolutions.GeneratedMSBuildEditorConfig.editorconfig

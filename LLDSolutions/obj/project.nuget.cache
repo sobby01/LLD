@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J5QxoFR6DOMMuxD77+YMrX4yGs+5Y+WCokwliQzT7YeRx9xkvpCa9GG8H+xI9ymOo3oSef5TUlPD85IYZbPSZw==",
+  "dgSpecHash": "jX0M6glY9VCMYitPXHVuf7mO5fJoiRPT301SeEKzhgYOGGZBxz8IwFrs34+41SaXz2/ufX8TyG8yik0TU45yNg==",
   "success": true,
   "projectFilePath": "C:\\Dev\\Git\\LLD\\LLDSolutions\\LLDSolutions.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

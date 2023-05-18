@@ -5,3 +5,4 @@ C:\Dev\Git\LLD\DesignPattern\obj\Debug\DesignPattern.csproj.AssemblyReference.ca
 C:\Dev\Git\LLD\DesignPattern\obj\Debug\DesignPattern.csproj.CoreCompileInputs.cache
 C:\Dev\Git\LLD\DesignPattern\obj\Debug\DesignPattern.exe
 C:\Dev\Git\LLD\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Dev\Git\LLD\DesignPattern\obj\Debug\DesignPattern.csproj.SuggestedBindingRedirects.cache

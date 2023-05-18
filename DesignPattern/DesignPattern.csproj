@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behavioral\Strategy\EnumToStrategy.cs" />
     <Compile Include="Creational\Builder\Builder.cs" />
     <Compile Include="Creational\Builder\Director.cs" />
     <Compile Include="Creational\Builder\Product.cs" />
@@ -56,7 +57,7 @@
     <Compile Include="Creational\Prototype\Prototype.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Creational\Singleton.cs" />
+    <Compile Include="Creational\Singleton\Singleton.cs" />
     <Compile Include="Structural\Bridge\BaseImpl\Abstraction.cs" />
     <Compile Include="Structural\Bridge\BaseImpl\Implementer.cs" />
     <Compile Include="Structural\Bridge\BaseImpl\TestClass.cs" />
@@ -88,7 +89,6 @@
     <Folder Include="Behavioral\Mediator\" />
     <Folder Include="Behavioral\Observer\" />
     <Folder Include="Behavioral\State\" />
-    <Folder Include="Behavioral\Strategy\" />
     <Folder Include="Behavioral\Tempelate\" />
     <Folder Include="Behavioral\Visitor\" />
     <Folder Include="Creational\Abstract Factory\" />

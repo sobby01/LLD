@@ -15,6 +15,8 @@
 */**/obj/Release
 */**/.vs
 */.vs
+*/LLDSolutions/obj
+*/DesignPattern/obj
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

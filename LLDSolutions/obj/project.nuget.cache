@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jX0M6glY9VCMYitPXHVuf7mO5fJoiRPT301SeEKzhgYOGGZBxz8IwFrs34+41SaXz2/ufX8TyG8yik0TU45yNg==",
+  "dgSpecHash": "GhwosvmxXBDgZUpzt/oMvDvSBPk1HsH6udYh4G/fp83crZTTmohVhfg07/WxU8w7+iQxr6u27fOWHrXPOtjGQA==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Git\\LLD\\LLDSolutions\\LLDSolutions.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Dev\\Git\\LLD\\LLDSolutions\\LLDSolutions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAURABH\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\SAURABH\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\SAURABH\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\SAURABH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

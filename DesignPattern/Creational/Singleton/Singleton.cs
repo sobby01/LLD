@@ -41,4 +41,38 @@ namespace DesignPattern
 
         }
     }
+
+    /*
+     * In C#, the static constructor (also known as a type initializer) is automatically called
+     * before any static members are accessed or any static methods are called for the first time in the class.
+     * This behavior guarantees that the static constructor is invoked exactly once, regardless of the number of threads accessing the class.
+     * 
+     * Without the static constructor, the Singleton instance might be created eagerly 
+     * at the time of class loading, defeating the purpose of lazy initialization.
+     * By having the static constructor in the nested class, you achieve the desired 
+     * lazy initialization behavior and ensure that the Singleton instance is created only when needed.
+
+    Overall, the static constructor in the nested class of the Singleton pattern is essential
+    for achieving lazy initialization and thread safety, ensuring that the Singleton instance 
+    is created only once, even in a multi-threaded environment.
+     */
+    public class SingletonNested
+    {
+        private SingletonNested() { }
+
+        public static SingletonNested Instance
+        {
+            get
+            {
+                return Nested.instance;
+            }
+        }
+
+        private class Nested
+        {
+            internal static readonly SingletonNested instance = new SingletonNested();
+
+            static Nested() { }
+        }
+    }
 }

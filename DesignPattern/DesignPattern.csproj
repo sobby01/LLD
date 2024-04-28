@@ -67,6 +67,9 @@
     <Compile Include="Behavioral\Visitor\Employees.cs" />
     <Compile Include="Behavioral\Visitor\IVisitor.cs" />
     <Compile Include="Behavioral\Visitor\SalaryCalculator.cs" />
+    <Compile Include="Behavioral\Visitor\Visitor2\IShoppingCartVisitor.cs" />
+    <Compile Include="Behavioral\Visitor\Visitor2\ItemCart.cs" />
+    <Compile Include="Behavioral\Visitor\Visitor2\ShoppingCartVisitorImpl.cs" />
     <Compile Include="Behavioral\Visitor\VisitorProcess.cs" />
     <Compile Include="Creational\Builder\Builder.cs" />
     <Compile Include="Creational\Builder\Director.cs" />

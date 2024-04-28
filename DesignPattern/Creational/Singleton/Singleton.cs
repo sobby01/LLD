@@ -6,6 +6,26 @@ using System.Threading.Tasks;
 
 namespace DesignPattern
 {
+    public class Test
+    {
+        private Test() { }
+
+        public static Test Instance
+        {
+            get
+            {
+                return Nested.instance;
+            }
+        }
+
+        private class Nested
+        {
+            //This makes sense that this will be created only once
+            static Nested() { }
+            internal static readonly Test instance = new Test();
+        }
+    }
+
     public class Singleton
     {
         private static readonly Singleton instance = new Singleton();

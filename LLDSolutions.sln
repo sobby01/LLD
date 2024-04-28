@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LLDSolutions", "LLDSolution
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPS", "OOPS\OOPS.csproj", "{27D07561-332F-4A05-BBE2-9310C3DD0CFD}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{C832A0BF-2E25-4DED-BAFA-6A8352AE0443}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{27D07561-332F-4A05-BBE2-9310C3DD0CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27D07561-332F-4A05-BBE2-9310C3DD0CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27D07561-332F-4A05-BBE2-9310C3DD0CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C832A0BF-2E25-4DED-BAFA-6A8352AE0443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C832A0BF-2E25-4DED-BAFA-6A8352AE0443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C832A0BF-2E25-4DED-BAFA-6A8352AE0443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C832A0BF-2E25-4DED-BAFA-6A8352AE0443}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

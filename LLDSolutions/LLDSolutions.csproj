@@ -24,6 +24,7 @@
     <Folder Include="ATM\" />
     <Folder Include="BookMyShow\Constants\" />
     <Folder Include="Logger\" />
+    <Folder Include="NewFolder\" />
     <Folder Include="Splitwise\Payment\" />
   </ItemGroup>
 

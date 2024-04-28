@@ -43,7 +43,31 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behavioral\Command\Invoker.cs" />
+    <Compile Include="Behavioral\Command\Sender\Sender.cs" />
+    <Compile Include="Behavioral\Command\Sender\Sender1.cs" />
+    <Compile Include="Behavioral\Command\Sender\Sender2.cs" />
+    <Compile Include="Behavioral\Command\Receiver\IReceiver.cs" />
+    <Compile Include="Behavioral\Command\Receiver\Receiver2.cs" />
+    <Compile Include="Behavioral\Command\Receiver\Receiver1.cs" />
+    <Compile Include="Behavioral\COR\AbstractLogger.cs" />
+    <Compile Include="Behavioral\COR\ConsoleLogger.cs" />
+    <Compile Include="Behavioral\COR\CORDemo.cs" />
+    <Compile Include="Behavioral\COR\ErrorLogger.cs" />
+    <Compile Include="Behavioral\COR\FileLogger.cs" />
+    <Compile Include="Behavioral\Interpreter\Context.cs" />
+    <Compile Include="Behavioral\Interpreter\Interpreter.cs" />
+    <Compile Include="Behavioral\Interpreter\InterpreterProcess.cs" />
+    <Compile Include="Behavioral\Observer\IObserver.cs" />
+    <Compile Include="Behavioral\Observer\Product.cs" />
+    <Compile Include="Behavioral\Observer\ProductContainer.cs" />
+    <Compile Include="Behavioral\Observer\Shop.cs" />
     <Compile Include="Behavioral\Strategy\EnumToStrategy.cs" />
+    <Compile Include="Behavioral\Template\Template.cs" />
+    <Compile Include="Behavioral\Visitor\Employees.cs" />
+    <Compile Include="Behavioral\Visitor\IVisitor.cs" />
+    <Compile Include="Behavioral\Visitor\SalaryCalculator.cs" />
+    <Compile Include="Behavioral\Visitor\VisitorProcess.cs" />
     <Compile Include="Creational\Builder\Builder.cs" />
     <Compile Include="Creational\Builder\Director.cs" />
     <Compile Include="Creational\Builder\Product.cs" />
@@ -82,15 +106,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Behavioral\Command\" />
-    <Folder Include="Behavioral\COR\" />
-    <Folder Include="Behavioral\Interpreter\" />
     <Folder Include="Behavioral\Iterator\" />
     <Folder Include="Behavioral\Mediator\" />
-    <Folder Include="Behavioral\Observer\" />
     <Folder Include="Behavioral\State\" />
-    <Folder Include="Behavioral\Tempelate\" />
-    <Folder Include="Behavioral\Visitor\" />
     <Folder Include="Creational\Abstract Factory\" />
     <Folder Include="Structural\Adapter\" />
     <Folder Include="Structural\Bridge\RealWorld\" />

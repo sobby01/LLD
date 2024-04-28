@@ -6,3 +6,11 @@ C:\Dev\Git\LLD\DesignPattern\obj\Debug\DesignPattern.csproj.CoreCompileInputs.ca
 C:\Dev\Git\LLD\DesignPattern\obj\Debug\DesignPattern.exe
 C:\Dev\Git\LLD\DesignPattern\obj\Debug\DesignPattern.pdb
 C:\Dev\Git\LLD\DesignPattern\obj\Debug\DesignPattern.csproj.SuggestedBindingRedirects.cache
+D:\Dev\Git\LLD\DesignPattern\bin\Debug\DesignPattern.exe.config
+D:\Dev\Git\LLD\DesignPattern\bin\Debug\DesignPattern.exe
+D:\Dev\Git\LLD\DesignPattern\bin\Debug\DesignPattern.pdb
+D:\Dev\Git\LLD\DesignPattern\obj\Debug\DesignPattern.csproj.AssemblyReference.cache
+D:\Dev\Git\LLD\DesignPattern\obj\Debug\DesignPattern.csproj.SuggestedBindingRedirects.cache
+D:\Dev\Git\LLD\DesignPattern\obj\Debug\DesignPattern.csproj.CoreCompileInputs.cache
+D:\Dev\Git\LLD\DesignPattern\obj\Debug\DesignPattern.exe
+D:\Dev\Git\LLD\DesignPattern\obj\Debug\DesignPattern.pdb
